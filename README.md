@@ -170,7 +170,7 @@ Only the owner can change visibility. The rule is enforced inside the program's 
 
 ---
 
-## 6. GitHub-style features
+## 6. mini-git style features
 
 These work inside Repospace on your own computer. Where GitHub needs the internet or money, Repospace keeps a local version.
 
